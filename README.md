@@ -8,13 +8,13 @@
 
 Some interesting words are plotted below. All of the books of the Bible are used, including apocryphs. FYI, New Testaments consists of books 40-66.
 
-![Names of God]("/img/Names of God.png")
+![Names of God](/img/Names_of_God.png)
 
-![Good and Bad]("/img/Good and Bad.png")
+![Good and Bad](/img/Good_and_Bad.png)
 
-![Man and Woman]("/img/Man and Woman.png")
+![Man and Woman](/img/Man_and_Woman.png)
 
-![Violence]("/img/Violence.png")
+![Violence](/img/Violence.png)
 
 ## Collaboration
 
