@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+save.data-00000-of-00001
+save.index
+save.meta
+nohup.out
+checkpoint
+params.p
+preprocess.p
